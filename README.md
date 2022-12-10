@@ -10,6 +10,7 @@ Extracts loaded ACPI binaries Tables from IOreg
 ##
 
 <img src="https://github.com/LAbyOne/ACPIDump/blob/main/image/1.png">
+
 ##
 
 [Download](https://github.com/LAbyOne/ACPIDump/releases)
