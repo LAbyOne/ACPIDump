@@ -1,5 +1,5 @@
 # ACPIDump
-Extracts loaded ACPI binaries Tables from IOreg
+Extracts loaded DSDT / SSDT or full ACPI binaries Tables from IOreg
 ##
 
 <img src="https://github.com/LAbyOne/ACPIDump/blob/main/image/logo.png">
