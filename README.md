@@ -1,4 +1,4 @@
 # ACPIDump
 Extracts loaded ACPI binaries Tables from IOreg
 ## 
-<img src="images/logo.png">
+<img src="https://github.com/LAbyOne/ACPIDump/blob/main/image/logo.png">
